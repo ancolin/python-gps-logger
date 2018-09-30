@@ -1,0 +1,5 @@
+error_gps_connection = 'GPS module connection error.'
+error_gcp_connection = 'Failed to connect Google Drive API.'
+error_spreadsheet_open = 'Failed to open spreadsheet.'
+error_gps_data_receive = 'Failed to receive GPS data.'
+error_gps_data_receive_over_threshold = 'Failed to receive GSP data, over threshold.'
